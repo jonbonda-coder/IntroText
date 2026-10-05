@@ -103,8 +103,11 @@ Try searching using the following regex patterns. Enable regex search by togglin
   [D2L](https://learn.georgebrown.ca) • 
   [AtKlass](https://app.atklass.com) • 
   [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
+
+  [AppsAnyWhere](https://www.georgebrown.ca/current-students/websites-apps-and-technical-support/appsanywhere)
    ```
 
+* Added AppsAnyWhere entry in the links.md file.
 
 ### Step 5.2
 Go back to the `README.md` file and add a new section near the bottom titled **More Resources**, with a link to your new `links.md` file.
