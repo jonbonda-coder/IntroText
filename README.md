@@ -47,6 +47,51 @@ See the [summaries/](/summaries/) folder for lecture note summaries by week.
  - [r/MechanicalKeyboards](https://www.reddit.com/r/MechanicalKeyboards/)
  - [r/ErgoMechKeyboards](https://www.reddit.com/r/ErgoMechKeyboards/)
 
+# STEP 3 Keyboard Shortcuts
+
+ ## "Keyboard shortcuts"
+Short cuts I frequently use: 
+
+- [ALT+TAB] Switch Active Windows on Desktop
+- [CTRL+TAB] Switch Active Tabs on App
+- [Win+TAB] Switch between Desktop 
+- [Win+D] Show Desktop and Minimize all Windows
+- [CTRL+C] Copy Selected Item or Text
+- [CTRL+V] Paste Selected Copied Item or Text
+- [CTRL+X] Cut Selected Item or Text
+- [CTRL+Z] Undo Last Action
+
+
+Keyboard Short Cuts I would like to use more often: 
+
+- [CTRL+Y] Redo Last Action
+- [CTRL+SHIFT+N] Create New Folder
+- [Win+E] Open new Explorer Window
+- [ALT+PRT] ScreenShot Active Window
+
+# Step 4 Text Block 
+
+````markdown
+## Search Experiments
+Try searching for the word "line"
+
+```
+Line
+line
+lines
+line 5
+line-7
+line72TODO
+line73.4
+end of line
+end-of-line
+outline
+linear
+```
+````
+
+
+
 ## CLI
 - [Command Line Crash Course For Beginners](https://www.youtube.com/watch?v=uwAqEzhyjtw)
 - [Is the terminal still worth learning?](https://www.youtube.com/watch?v=PwoD3XxYLII) - by Veronica Explains
@@ -110,3 +155,11 @@ See the [summaries/](/summaries/) folder for lecture note summaries by week.
 ## Ergnonomics
 - [Powerlifting as back pain prevention](https://www.youtube.com/watch?v=WxN9VzwoGGw) - by No Boilerplate
 
+
+# Step 5 Links.md Text Block
+
+   ```markdown
+  ## More Resources
+
+  Check out the [Useful Resources](links.md) page for useful links.
+  ```
